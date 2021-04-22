@@ -131,6 +131,7 @@ button.slick-next {
 
 .slick-list {
   width: 100% !important;
+  height: 430px;
 }
 
 .slick-initialized {
