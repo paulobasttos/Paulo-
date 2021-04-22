@@ -97,10 +97,10 @@ main,
 }
 
 .col-100 {
-  width: 100%;
+  width: 50%;
   float: left;
   position: relative;
-  height: 50%;
+  height: 100%;
 }
 
 button.slick-prev {
