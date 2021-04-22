@@ -97,8 +97,8 @@ main,
 }
 
 .col-100 {
-  width: 70%;
-  float: left;
+  width: 50%;
+  float: center;
   position: relative;
   height: 100%;
 }
